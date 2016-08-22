@@ -65,12 +65,12 @@ mask=args{10};
 actfuncid=args{11};
 actfunclist={'sig','sin','hardlim','tribas','radbas'};
 actfuncname=actfunclist{actfuncid};
-dimredfunct=args{12
+dimredfunct=args{12};
 sr=args{14};
 
 switch args{13}
     case 0
-        featselect=args{9
+        featselect=args{9};
         featselect=featselect(featselect~=0);
     case 1
         featselect=1:108;
