@@ -7,7 +7,7 @@ TSAM - Timbre Space Analyzer and Mapper
 
 The Timbre Space Analyzer & Mapper (TSAM) is a collection of MAX patches 
 and MATLAB functions for the analysis, modeling and malling of the
-timbre if siund synthesizers.
+timbre of sound synthesizers.
 The TSAM can be obtained at http://stefanofasciani.com/tsam.html
 TSAM Copyright (C) 2016 Stefano Fasciani, University of Wollongong
 Inquiries: stefanofasciani@stefanofasciani.com
